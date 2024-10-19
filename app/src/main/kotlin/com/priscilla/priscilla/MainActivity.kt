@@ -1,4 +1,4 @@
-package com.example.priscilla
+package com.priscilla.priscilla
 
 import android.os.Bundle
 import android.widget.Button

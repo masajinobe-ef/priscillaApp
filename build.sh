@@ -1,2 +1,2 @@
-./gradlew installDebug
+./gradlew build
 
